@@ -85,3 +85,4 @@
 - Search: The app highlights any matches of keywords in the extracted text, showing the number of occurrences and the corresponding lines.
 
 #### This README provides a comprehensive overview of the project, installation instructions, and descriptions of key functionalities, as well as guidance for addressing issues encountered during development.
+
